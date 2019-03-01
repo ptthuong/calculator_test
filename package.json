@@ -25,7 +25,6 @@
     "chai": "^4.2.0",
     "csv-load-sync": "^1.0.0",
     "eslint": "^5.12.1",
-    "webdriverio": "5.6.3",
-    "appium": "^1.11.1"
+    "webdriverio": "5.6.3"
   }
 }
