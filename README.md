@@ -25,7 +25,7 @@ calculator-test$ npm install
 
 ```$ appium -p 4444```
 
-- Export some params as environment variables
+- Export some params as environment variables (*)
 
 ```
 $ export ORG_ID=<your_team_id>
@@ -34,7 +34,7 @@ $ export UDID=<UDID_of_device>
 $ export PLATFORM_VERSION=<Plaform_version>
 ```
 
-- Run test:
+- Run test in same terminal with (*)
 
 ```$ npm run test```
 

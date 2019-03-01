@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Automation Test challenge",
   "scripts": {
-    "test": "rm -rf ./Report/* && ./node_modules/.bin/wdio",
+    "test": "rm -rf ./Report && ./node_modules/.bin/wdio",
     "eslint-fix": "./node_modules/.bin/eslint --fix ./src",
     "report": "allure generate --clean Report && allure open"
   },
